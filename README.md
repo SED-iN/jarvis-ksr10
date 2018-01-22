@@ -14,34 +14,20 @@ Avant d'installer Jarvis KSR10 sur votre machine, veillez à avoir suivi le tuto
 http://framboisepi.fr/bras-robot-velleman-ksr10-controle-avec-python-en-usb/
 ```
 
-### Installing
+### Langues
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Voici la liste des langues disponibles pour ce plugin :
 
 ```
-Give the example
+Français
 ```
 
-And repeat
+## Usage
 
 ```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
+Vous : Coucou Dory
+Dory : Bonjour à tous !
+*KSR10 execute un salut pré-programmé*
 ```
 
 ## Auteurs
