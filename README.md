@@ -1,17 +1,17 @@
-# Project Title
+# Jarvis KSR 10
 
-One Paragraph of project description goes here
+Jarvis KSR 10 est un plugin pour l'assistant vocal OpenJarvis (cf : www.openjarvis.com)
 
-## Getting Started
+## Pour commencer
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Ces instructions vous aideront a installer une copie de ce projet sur votre machine, à des fins de développement et/ou d'apprentisage.
 
-### Prerequisites
+### Pré-requis
 
-What things you need to install the software and how to install them
+Avant d'installer Jarvis KSR10 sur votre machine, veillez à avoir suivi le tutoriel ci dessous, pour l'installation du script requis pour le controle du bras robotique
 
 ```
-Give examples
+http://framboisepi.fr/bras-robot-velleman-ksr10-controle-avec-python-en-usb/
 ```
 
 ### Installing
@@ -44,45 +44,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
+## Auteurs
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* **Sam Seban** - *Développement du plugin* - [SED-IN](https://github.com/SED-iN)
 
