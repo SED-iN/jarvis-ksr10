@@ -32,5 +32,5 @@ Dory : Bonjour à tous !
 
 ## Auteurs
 
-* **Sam Seban** - *Développement du plugin* - [SED-IN](https://github.com/SED-iN)
+* **Sam Seban** - *Développement du plugin* - [SED-IN](https://github.com/SamSeban)
 
