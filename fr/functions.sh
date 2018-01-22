@@ -2,7 +2,8 @@
 
 jv_pg_waveHello(){
 
-os.system('./commander.py commands.csv')
+#python /BRASROBOT/maplinarm/commander.py commands.csv
+os.system('/BRASROBOT/maplinarm/commander.py commands.csv')
 
 done
 }
