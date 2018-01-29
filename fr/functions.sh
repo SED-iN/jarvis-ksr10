@@ -2,8 +2,9 @@
 
 jv_pg_waveHello(){
 
+cd
 cd BRASROBOT/maplinarm
-python ./commander.py commands.csv 
+python commander.py commands.csv 
 #import os
 #cmd2 = './commander.py commands.csv'
 #cmd1 = 'cd BRASROBOT/maplinarm'
