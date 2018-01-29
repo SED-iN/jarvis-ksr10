@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+-#!/usr/bin/env python
 
 jv_pg_waveHello(){
 
@@ -13,5 +13,4 @@ python ./commander.py commands.csv
 
 #os.system('BRASROBOT/maplinarm/commander.py commands.csv')
 
-done
 }
