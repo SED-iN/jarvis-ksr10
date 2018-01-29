@@ -1,1 +1,1 @@
-*HOLA*==say "Bonjour à vous !" && jv_pg_waveHello
+*BONJOUR*|*SALUT*|*COUCOU*|*HELLO*==say "Bonjour !" && jv_pg_waveHello
